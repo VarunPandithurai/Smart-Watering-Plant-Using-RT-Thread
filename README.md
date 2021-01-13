@@ -26,3 +26,5 @@ The Controller used in this project is STM32 F411-RE which has ARM CORTEX – M4
 2. RED LED          			          P(A, 6)
 3. Soil Moisture Sensor            P(C, 0)
 4. Water Pump                      P(A, 10)
+
+<iframe width="693" height="390" src="https://www.youtube.com/embed/PkLooRFrJ24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
