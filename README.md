@@ -1,6 +1,7 @@
 # Smart-Watering-Plant-Using-RT-Thread
-Project Title: Smart Agriculture (Irrigation system)
-Description: Smart irrigation systems are a combination of sensors and controllers which monitor the watering, moisture related content temperature and climate and there by watering the crops as per requirement. In this project I am using a soil moisture sensor to detect the moisture of the soil.
+# Project Title: Smart Agriculture (Irrigation system)
+# Description
+Smart irrigation systems are a combination of sensors and controllers which monitor the watering, moisture related content temperature and climate and there by watering the crops as per requirement. In this project I am using a soil moisture sensor to detect the moisture of the soil.
 There are two types of soil moisture sensor.
 1. Resistive soil moisture sensor 
 2. Capacitive soil moisture sensor
@@ -29,3 +30,6 @@ The Controller used in this project is STM32 F411-RE which has ARM CORTEX – M4
 
 # Youtube Link to the project video is here
 https://www.youtube.com/watch?v=PkLooRFrJ24
+
+# code
+You can Find the Main.c file in Applications folder
