@@ -33,3 +33,5 @@ https://www.youtube.com/watch?v=PkLooRFrJ24
 
 # code
 You can Find the Main.c file in Applications folder
+
+![Image of BD](https://github.com/VarunPandithurai/Smart-Watering-Plant-Using-RT-Thread/blob/main/BLOCK_DIAGRAM.JPG)
