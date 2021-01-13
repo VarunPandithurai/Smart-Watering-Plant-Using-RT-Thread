@@ -22,7 +22,7 @@ The Controller used in this project is STM32 F411-RE which has ARM CORTEX – M4
 2.	The program is written in c the only work of the main function is to activate the three threads.
 
 # Wiring 
-GREEN LED			                  P(A, 5)
-RED LED          			          P(A, 6)
-Soil Moisture Sensor            P(C, 0)
-Water Pump                      P(A, 10)
+1. GREEN LED			                  P(A, 5)
+2. RED LED          			          P(A, 6)
+3. Soil Moisture Sensor            P(C, 0)
+4. Water Pump                      P(A, 10)
